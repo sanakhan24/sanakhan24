@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sana Khan</h1>
+<h1 align="center">Hi, I'm Sana Khan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="justify">A passionate data science and AI enthusiast with hands-on experience in machine learning, natural language processing, and deep learning. With a strong foundation in Python, data analysis, and model development, I’ve worked on impactful projects. I thrive on solving real-world problems using data and am currently pursuing a Post Graduate Certificate in Artificial Intelligence and Machine Learning. I’m always eager to learn, collaborate, and create data-driven solutions that make a difference.</h3>
 
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlicWNrdjVxcHhkemo1dXE2bDVvZDZodWZ6dzRtcWo5ZDNpbTFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MA2k5iLXwtdEqjEYY3/giphy.gif" width="230">
 
-<h3 align="left">🚀 Interests:</h3>  
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Interests:</h3>  
 - Natural Language Processing (NLP)  <br>
 - Deep Learning & Generative AI  <br>
 - AI in Finance & Healthcare  <br>
 - Multilingual and Speech-AI Systems <br>
 
-<h3 align="left">📫 How to reach me: <a href="mailto:sana06k@gmail.com">sana06k@gmail.com</a></h3>
+
+<h3 align="left"> <img src="https://media.giphy.com/media/vRfWXyo1FNDjvxqcgt/giphy.gif?cid=ecf05e47kobptu0jkpy9xsm27ku3b6vk4p0ooywzqqr9xca4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">  How to reach me: <a href="mailto:sana06k@gmail.com">sana06k@gmail.com</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
